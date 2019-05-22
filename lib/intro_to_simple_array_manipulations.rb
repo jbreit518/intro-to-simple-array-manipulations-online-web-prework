@@ -27,4 +27,5 @@ def using_concat(array, array_two)
 end 
 
 def using_insert(array, element)
-  array.insert(element)
+  array.insert(3, element)
+end 
